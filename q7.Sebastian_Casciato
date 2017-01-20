@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head>
+        <style>
+            body{
+                background-color:cyan;
+            }
+            table {
+                border-collapse: collapse;
+                text-align: center; 
+            }
+
+            table, th, td {
+            border: 1px solid black;
+            }
+        </style>
+        <title>q7_SebastianCasciato.HTML</title>
+    </head>
+    <body>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+        <table>
+            <tr>
+                <th>Question 7</th>
+            </tr>
+            <tr>
+                <td>Javascript can answer ___ questions?</td>
+            </tr>
+            <tr>
+                <td>a.Math</td>
+            </tr>
+            <tr>
+                <td>b.Science</td>
+            </tr>
+            <tr>
+                <td>c.Coding</td>
+            </tr>
+            <tr>
+                <td>d.English</td>
+            </tr>
+            <tr>
+                <td><form action="demo_form.asp">
+answer: <input type="text" name="answer" value="(answer using a, b, c, d)"><br>
+<input type="submit" value="Submit"></td></form>
+            </tr>
+        </table>
+<script>
+    if (submit === a) {
+  console.log("You are right");
+} else {
+  console.log("Better luck next time");
+}
+</script>
+
+
+    </body>
+</HTML>

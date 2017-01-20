@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head>
+        <style>
+            body{
+                background-color:cyan;
+            }
+            table {
+                border-collapse: collapse;
+                text-align: center; 
+            }
+
+            table, th, td {
+            border: 1px solid black;
+            }
+        </style>
+        <title>q3_SebastianCasciato.HTML</title>
+    </head>
+    <body>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+        <table>
+            <tr>
+                <th>Question 3</th>
+            </tr>
+            <tr>
+                <td>Which of these is NOT a real operating system?
+</td>
+            </tr>
+            <tr>
+                <td>a.Windows 10</td>
+            </tr>
+            <tr>
+                <td>b.IO5 16</td>
+            </tr>
+            <tr>
+                <td>c.IOS 4.5</td>
+            </tr>
+            <tr>
+                <td>d.Windows 7</td>
+            </tr>
+            <tr>
+                <td><form action="demo_form.asp">
+answer: <input type="text" name="answer" value="(answer using a, b, c, d)"><br>
+<input type="submit" value="Submit"></td></form>
+            </tr>
+        </table>
+<script>
+    if (submit === b) {
+  console.log("You are right");
+} else {
+  console.log("Better luck next time");
+}
+</script>
+
+
+    </body>
+</HTML>

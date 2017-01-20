@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head>
+        <style>
+            body{
+                background-image: url("https://media.giphy.com/media/IjmMzurYulKEw/giphy.gif");
+            }
+            h1{
+                color: red;
+                text-align:center;
+            }
+        </style>
+        <title>q10_SebastianCasciato.HTML</title>
+    </head>
+    <body>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+        <h1>CONGRATLUATIONS</h1>
+
+
+    </body>
+</HTML>

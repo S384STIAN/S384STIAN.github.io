@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head>
+        <style>
+            body{
+                background-color:cyan;
+            }
+            table {
+                border-collapse: collapse;
+                text-align: center; 
+            }
+
+            table, th, td {
+            border: 1px solid black;
+            }
+        </style>
+        <title>q5_SebastianCasciato.HTML</title>
+    </head>
+    <body>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+        <table>
+            <tr>
+                <th>Question 5</th>
+            </tr>
+            <tr>
+                <td>What tag would open a table?</td>
+            </tr>
+            <tr>
+                <td>a.{tbl}</td>
+            </tr>
+            <tr>
+                <td>b.{table}</td>
+            </tr>
+            <tr>
+                <td>c.{tbl open}</td>
+            </tr>
+            <tr>
+                <td>d.{t}</td>
+            </tr>
+            <tr>
+                <td><form action="demo_form.asp">
+answer: <input type="text" name="answer" value="(answer using a, b, c, d)"><br>
+<input type="submit" value="Submit"></td></form>
+            </tr>
+        </table>
+<script>
+    if (submit === b) {
+  console.log("You are right");
+} else {
+  console.log("Better luck next time");
+}
+</script>
+
+
+    </body>
+</HTML>
